@@ -1,7 +1,7 @@
 
 import axios from 'axios';
 const DEPLOYED='https://pear-poised-hen.cyclic.app/'
-const LOCALHOST='https://ecommerce-api-chi-eosin.vercel.app/'
+const LOCALHOST='https://ecommerce-api-kappa-three.vercel.app/'
 
 export const API_BASE_URL = LOCALHOST;
 
